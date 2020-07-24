@@ -5,7 +5,7 @@ Create Your resume in HTML with [Tailwind CSS](https://tailwindcss.com) and expo
 ## Installation
 Clone this repository:
 ```bash
-git clone 
+git clone git@github.com:JamesRamone/html-resume.git 
 cd html-resume
 ```
 
